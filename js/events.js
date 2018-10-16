@@ -8,7 +8,7 @@ function getIt() {
 
 function frameIt() {
   return $('img').on('load', function () {
-    //something goes here.
+    $('img').addClass
   })
 }
 
